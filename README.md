@@ -1,2 +1,2 @@
 # jupyter
-A lot of snipper code for python.
+A lot of snippets code with Jupyter for python3.
